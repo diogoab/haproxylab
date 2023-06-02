@@ -1,0 +1,16 @@
+{
+    "name": "meu-app-jwt",
+    "version": "1.0.0",
+    "description": "Aplicativo que gera tokens JWT",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Seu Nome",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1"
+    }
+  }
+  
